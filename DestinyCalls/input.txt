@@ -1,0 +1,7 @@
+3
+meditation
+6 30 6 50 20
+stretching
+6 50 7 00 10
+running
+7 00 7 20 20
