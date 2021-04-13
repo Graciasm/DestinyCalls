@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="vector.c">
+    <ClCompile Include="backjoon2742.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
